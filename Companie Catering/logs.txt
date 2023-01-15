@@ -1,0 +1,5 @@
+ioneladanci,1234,administrator
+emp2,1234,employee
+emp1,1234,employee
+c1,1234,client
+c2,1234,client

@@ -1,0 +1,28 @@
+Chitanta:(clientdID=1) 
+Title=Spicy Pickled Shallots  Rating=0.0 Calories=23 Protein=1 Fat=0 Sodium=162 Price=78
+
+Title=clatite cu gem;Pear-Cranberry Mincemeat Lattice Pie ; Rating=9.375 Calories=29997922 Protein=200214 Fat=1716283 Sodium=27571003 Price=19
+
+
+
+Total=97
+Chitanta:(clientdID=1) 
+Title=clatite cu gem;Pear-Cranberry Mincemeat Lattice Pie ; Rating=9.375 Calories=29997922 Protein=200214 Fat=1716283 Sodium=27571003 Price=19
+
+
+
+Total=19
+Chitanta:(clientdID=2) 
+Title=clatite cu gem;Pear-Cranberry Mincemeat Lattice Pie ; Rating=9.375 Calories=29997922 Protein=200214 Fat=1716283 Sodium=27571003 Price=19
+
+Title=clatite cu gem;Pear-Cranberry Mincemeat Lattice Pie ; Rating=9.375 Calories=29997922 Protein=200214 Fat=1716283 Sodium=27571003 Price=19
+
+
+
+Total=38
+Chitanta:(clientdID=2) 
+Title=clatite cu gem Rating=5.0 Calories=4 Protein=4 Fat=4 Sodium=4 Price=4
+
+
+
+Total=4
